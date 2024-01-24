@@ -1,0 +1,22 @@
+
+.about-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#61dafbaa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #646cffaa;
+  }
+  
+  .about-heading {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about-info {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
